@@ -1,6 +1,6 @@
-# OutSystems & Mobile Plugins Catalog
+# OutSystems & Mobile Cordova Plugins Catalog
 
-A curated directory of open-source plugins, native mobile extensions (iOS & Android), and developer tooling for OutSystems:
+A curated directory of open-source Cordova plugins, native mobile extensions (iOS & Android), and developer tooling for OutSystems:
 
 ---
 
