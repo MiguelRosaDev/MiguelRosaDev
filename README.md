@@ -9,7 +9,7 @@ Agentic workflows and automated skills for AI-assisted OutSystems development:
 
 | Repository | Description | Key Topics |
 | :--- | :--- | :--- |
-| [**`outsystems-ai-skills`**](https://github.com/MiguelRosaDev/outsystems-ai-skills) | 17 specialized AI skills for OutSystems 11 / ODC (ModelAPI flow-layout & comments, 4LC architecture, Data modeling, Timers & BPT, REST integrations, Reactive lifecycle & Offline Sync, CRUD wrappers, RBAC security, and Cordova plugins) | `outsystems`, `ai-skills`, `mcp`, `modelapi` |
+| [**`outsystems-ai-skills`**](https://github.com/MiguelRosaDev/outsystems-ai-skills) | Specialized AI skills for OutSystems 11 (O11) (ModelAPI flow-layout & comments, 4LC architecture, Data modeling, Timers & BPT, REST integrations, Reactive lifecycle & Offline Sync, CRUD wrappers, RBAC security, and Cordova plugins) | `outsystems`, `outsystems-11`, `ai-skills`, `mcp`, `modelapi` |
 
 ---
 
