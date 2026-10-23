@@ -9,7 +9,7 @@ Agentic workflows and automated skills for AI-assisted OutSystems development:
 
 | Repository | Description | Key Topics |
 | :--- | :--- | :--- |
-| [**`outsystems-skills`**](https://github.com/MiguelRosaDev/outsystems-skills) | Curated AI skills for OutSystems (ModelAPI flow-layout and CSS formatting) | `outsystems`, `ai-skills`, `mcp`, `modelapi` |
+| [**`outsystems-skills`**](https://github.com/MiguelRosaDev/outsystems-skills) | Comprehensive AI skills suite for OutSystems (ModelAPI flow-layout, 4LC architecture, CRUD wrappers, performance anti-patterns, naming conventions, RBAC security, and Cordova wrappers) | `outsystems`, `ai-skills`, `mcp`, `modelapi` |
 
 ---
 
