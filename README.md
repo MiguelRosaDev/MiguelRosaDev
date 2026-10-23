@@ -1,12 +1,8 @@
-# Hi there, I'm Miguel Rosa 👋
+# OutSystems & Mobile Plugins Catalog
 
-Senior Mobile & OutSystems Engineer specializing in bridging low-code platforms with native mobile ecosystems (iOS & Android). Creator of native plugins, mobile extensions, and AI tooling for OutSystems.
+A curated directory of open-source plugins, native mobile extensions (iOS & Android), and developer tooling for OutSystems:
 
 ---
-
-## 🧭 Repository & Plugin Catalog
-
-Below is a curated directory of my open-source plugins, developer tools, and extensions categorized by domain:
 
 ### 🤖 AI Tooling & OutSystems Skills
 Agentic workflows and automated skills for AI-assisted OutSystems development:
