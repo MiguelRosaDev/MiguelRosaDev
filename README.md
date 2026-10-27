@@ -85,6 +85,7 @@ In-app review prompts and user feedback integrations:
 
 | Repository | Description |
 | :--- | :--- |
+| [**`jira-cli`**](https://github.com/MiguelRosaDev/jira-cli) | Zero-dependency CLI & SDK to interact with Jira REST & Agile APIs (Boards, Sprints, Epics, User Stories, Workflow Transitions & Comments) |
 | [**`git-migrate`**](https://github.com/MiguelRosaDev/git-migrate) | Safety-first CLI to rewrite Git history with signed commits, remap tags, and migrate repositories |
 
 ---
