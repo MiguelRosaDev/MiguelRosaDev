@@ -46,6 +46,7 @@ Native Real User Monitoring (RUM), telemetry, and performance instrumentation fo
 | Repository | Platform | Description |
 | :--- | :---: | :--- |
 | [**`cordova-datadog-rum`**](https://github.com/MiguelRosaDev/cordova-datadog-rum) | Both | Native Datadog Real User Monitoring (RUM) & WebView Tracking plugin for OutSystems 11 (MABS 12 & 13) in Kotlin & Swift |
+| [**`cordova-sentry`**](https://github.com/MiguelRosaDev/cordova-sentry) | Both | Native Sentry Error Tracking, Crash Reporting, Breadcrumbs & Performance Tracing plugin for OutSystems 11 (MABS 12 & 13) in Kotlin & Swift |
 
 ---
 
