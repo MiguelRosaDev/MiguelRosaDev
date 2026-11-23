@@ -40,6 +40,15 @@ Customized extensions, marketing bridges, and enhancements for Firebase SDKs:
 
 ---
 
+### 📊 Observability & Monitoring
+Native Real User Monitoring (RUM), telemetry, and performance instrumentation for OutSystems mobile apps:
+
+| Repository | Platform | Description |
+| :--- | :---: | :--- |
+| [**`cordova-datadog-rum`**](https://github.com/MiguelRosaDev/cordova-datadog-rum) | Both | Native Datadog Real User Monitoring (RUM) & WebView Tracking plugin for OutSystems 11 (MABS 12 & 13) in Kotlin & Swift |
+
+---
+
 ### 🔐 Authentication, Biometrics & Security
 Secure web authentication, OAuth sessions, and credential management:
 
